@@ -21,6 +21,11 @@
 			<attribute name="composer" value="source"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/barryvdh/laravel-debugbar/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry excluding="src/" kind="src" path="vendor/beyondcode/laravel-dump-server">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
@@ -71,6 +76,11 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/ezyang/htmlpurifier/library">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/fideloper/proxy/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
@@ -86,7 +96,27 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/guzzlehttp/psr7/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/hamcrest/hamcrest-php/hamcrest">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/hieu-le/active/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/hieu-le/active/tests">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/intervention/image/src/Intervention/Image">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
@@ -122,6 +152,21 @@
 		</attributes>
 	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/league/flysystem/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/maximebf/debugbar/src/DebugBar">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/mews/captcha/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/mews/purifier/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
@@ -236,6 +281,11 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/psr/http-message/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/psr/log/Psr/Log">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
@@ -247,6 +297,11 @@
 		</attributes>
 	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/psy/psysh/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/ralouphie/getallheaders/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
@@ -307,6 +362,11 @@
 		</attributes>
 	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/sebastian/version/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/summerblue/generator/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
 		</attributes>
