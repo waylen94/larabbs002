@@ -536,6 +536,11 @@
 			<attribute name="composer" value="vendor"/>
 		</attributes>
 	</buildpathentry>
+	<buildpathentry kind="src" path="vendor/viacreative/sudo-su/src">
+		<attributes>
+			<attribute name="composer" value="vendor"/>
+		</attributes>
+	</buildpathentry>
 	<buildpathentry kind="src" path="vendor/vlucas/phpdotenv/src">
 		<attributes>
 			<attribute name="composer" value="vendor"/>
